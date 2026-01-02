@@ -1,0 +1,29 @@
+# Archivos de Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform.lock.hcl
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Credenciales - MUY IMPORTANTE
+*.json
+credentials.json
+service-account*.json
+*-key.json
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Backups
+*.backup
+*.bak

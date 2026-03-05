@@ -1,4 +1,4 @@
-# GCP Infrastructure Project — Bootcamp DevOps
+# GCP Infrastructure Project 
 
 Proyecto práctico completo sobre migración a la nube de Google Cloud Platform
 

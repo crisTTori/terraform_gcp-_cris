@@ -1,6 +1,6 @@
 # GCP Infrastructure Project — Bootcamp DevOps
 
-Proyecto práctico completo sobre Google Cloud Platform desarrollado durante el módulo de Cloud del Bootcamp DevOps & Cloud Engineering (2025/2026).
+Proyecto práctico completo sobre migración a la nube de Google Cloud Platform
 
 ## Arquitectura
 
